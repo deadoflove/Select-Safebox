@@ -1,0 +1,3 @@
+SELECT_SAFEBOX_TITLE	Selector de Almacen
+SELECT_SAFEBOX_DEC	Seleciona un Almacen
+SELECT_SAFEBOX_DEC2	Almacen de jugador
