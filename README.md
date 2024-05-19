@@ -23,4 +23,4 @@ if you don't have it add it and add the information of the ui.py in the class bu
 
 ![](https://github.com/deadoflove/Select-Safebox/blob/main/SelectSafeboxPreview.gif)
 
-[![Alt text](https://img.youtube.com/vi/https://youtu.be/sxLgupBvz50?si=3Ypr3thvMcfEZrce/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
+[![Alt text](https://img.youtube.com/vi/sxLgupBvz50/0.jpg)](https://www.youtube.com/watch?v=sxLgupBvz50)
