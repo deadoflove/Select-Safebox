@@ -13,7 +13,7 @@ window = { "name" : "SelectSafebotdDialog", "style" : ("movable", "float",),
 				{ "name" : "titlebar", "type" : "titlebar", "style" : ("attach",), "x" : 8, "y" : 8, "width" : WND_WIDTH-16, "color" : "red",
 					"children" :
 					(
-						{ "name" : "TitleName", "type" : "text", "x" : (WND_WIDTH-16)/2, "y" : 3, "text" : uiScriptLocale.SELECT_SAFEBOX_DEC, "text_horizontal_align":"center" },
+						{ "name" : "TitleName", "type" : "text", "x" : (WND_WIDTH-16)/2, "y" : 3, "text" : uiScriptLocale.SELECT_SAFEBOX_TITLE, "text_horizontal_align":"center" },
 					),
 				},
 				{ "name" : "Desc", "type" : "text", "x" : WND_WIDTH/2, "y" : WND_HEIGTH/3+3, "text" : uiScriptLocale.SELECT_SAFEBOX_DEC, "text_horizontal_align":"center" },
