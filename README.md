@@ -9,6 +9,8 @@ code loaded from interface
 
 avoiding annoying errors of windows that stay invisible
 
+added uitooltip information on the buttons
+
 binary definition for use
 
 verify in uiToolTip.py
