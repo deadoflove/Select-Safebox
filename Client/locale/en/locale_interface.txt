@@ -1,0 +1,3 @@
+SELECT_SAFEBOX_TITLE	Safebox Selector
+SELECT_SAFEBOX_DEC	Select a Warehouse
+SELECT_SAFEBOX_DEC2	Player storage
