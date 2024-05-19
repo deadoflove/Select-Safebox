@@ -19,4 +19,4 @@ def SetThinBoardSize(self, width, height = 12) :
 
 if you don't have it add it and add the information of the ui.py in the class button
 
-![](https://gyazo.com/f47e454989c5e7b8f950861dde7d4a33)
+![](https://github.com/deadoflove/Select-Safebox/blob/main/SelectSafeboxPreview.gif)
