@@ -1,3 +1,7 @@
+#within
+
+class InventoryWindow(ui.ScriptWindow):
+
 #search:
 
 	def Close(self):
